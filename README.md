@@ -12,7 +12,9 @@ SQL code can be written many different ways, and like any language it can adhere
 [Here](https://docs.snowflake.com/en/sql-reference/constructs.html) is the documentation around `SELECT` in Snowflake.
 
 > SQL is not case sensitive 
+> 
 > You do not need double quotes in your path to the table, but the built in editor will add them 
+> 
 > I am using both with and with out quotes to simply illustrate both options are fine to use
 
 example:

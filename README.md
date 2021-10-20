@@ -3,7 +3,7 @@
 
 ### About This Repo
 
-This repo is meant as a companion item to augment my JNUC 2021 virtual conference talk. This repo will be a very basic intro to using SQL, and is to be taken conceptually. No code, process, workflow, or otherwise is meant to be taken as a best practice, or even great advice. While I do have some basic skills in SQL, I am not an expert, and am still learning in my data journey. Please keep this in mind while consuming any data in this repo. It was recommended by Jamf that I write something up that is shareable to the audience on basic usage, and this the intended purpose of this repo. Thank you for taking the tiem to read this and if you wathced my presentation, another thank you in advance. If anyone would like to add to this in any way PRs are welcome.
+This repo is meant as a companion item to augment my JNUC 2021 virtual conference talk. This repo will be a very basic intro to using SQL, and is to be taken conceptually. No code, process, workflow, or otherwise is meant to be taken as a best practice, or even great advice. While I do have some basic skills in SQL, I am not an expert, and am still learning in my data journey. Please keep this in mind while consuming any data in this repo. It was recommended by Jamf that I write something up that is shareable to the audience on basic usage, and this the intended purpose of this repo. Thank you for taking the time to read this and if you wathced my presentation, another thank you in advance. If anyone would like to add to this in any way PRs are welcome.
 
 ### Basic Syntax Overview
 

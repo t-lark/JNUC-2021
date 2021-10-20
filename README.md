@@ -235,7 +235,7 @@ So, now we no longer have quotes and the data type is now a `VARCHAR` (string) a
 SELECT 
   JSON_DATA['event']['computer']['serialNumber']::string as SERIAL_NUMBER
 , JSON_DATA['event']['computer']['osVersion']::string as OS
-FROM "JAMF_EVENTSDB"."TESTING"."JAMF_EVENTS_CHECKINS"
+FROM "DB"."SCHEMA"."JAMF_EVENTS_CHECKINS"
 WHERE JSON_DATA:event.computer.username = 'tim.cook'
 ;
 ```
